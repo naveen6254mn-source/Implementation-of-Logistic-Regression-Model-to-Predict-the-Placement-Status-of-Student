@@ -54,21 +54,7 @@ disp.plot(cmap=plt.cm.Blues)
 plt.show()
 ```
 ## Output:
-Accuracy Score: 0.813953488372093
-
-Confusion Matrix:
- [[11  5]
- [ 3 24]]
-
-Classification Report:
-               precision    recall  f1-score   support
-
-           0       0.79      0.69      0.73        16
-           1       0.83      0.89      0.86        27
-
-    accuracy                           0.81        43
-   macro avg       0.81      0.79      0.80        43
-weighted avg       0.81      0.81      0.81        43
+<img width="548" height="346" alt="Screenshot 2026-05-13 112252" src="https://github.com/user-attachments/assets/63d611cf-7124-4782-a6e4-59b3489d635a" />
 
 
 <img width="828" height="553" alt="Screenshot 2026-05-13 112113" src="https://github.com/user-attachments/assets/c599d5f5-61e2-4bb2-8d48-9388793ab12e" />
